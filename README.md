@@ -1,2 +1,5 @@
-# tomcat-8.5.4-jre8-alpine-se
-Fork of official tomcat image plus credentials for manage-gui and script roles
+# tomcat-8.0.36-jre8-alpine-se
+Based on official tomcat image, plus credentials for manage-gui and manager-script roles
+
+for gui admin welcome1!
+for text deployer welcome1!
